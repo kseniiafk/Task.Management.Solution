@@ -1,3 +1,7 @@
+<img width="2787" height="1375" alt="image" src="https://github.com/user-attachments/assets/cad5aeca-4903-435a-85ef-9eae12e4ed97" />
+<img width="2543" height="1214" alt="image" src="https://github.com/user-attachments/assets/76dca5b6-e5ad-4198-9002-ef1705689fb8" />
+<img width="2614" height="1329" alt="image" src="https://github.com/user-attachments/assets/991ea2a0-ac85-4363-bf94-f208e7fcc5a0" />
+
 Технологии
 Python
 
